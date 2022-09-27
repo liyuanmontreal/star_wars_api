@@ -8,27 +8,27 @@ Features:
 -search a person by name.
 
 Technical points
--React.Js
+-React.Js,
 -axios for request data from Api
 -UI:bootswatch 
 -SWAPI:third party star wars api
 
-screenshots:
-People list
+Screenshots:
+-People list,
 -display records counts.
--disaply current page number ( every page displays 10 records)
+-disaply current page number ( every page displays 10 records).
 -simple pagination, user can click previous or next to explore other records.
 ![image](https://user-images.githubusercontent.com/65098066/192466859-65b28fdf-ff1a-4a16-9f6c-98acd6ecb880.png)
 
 Planet list
 -display records counts.
--disaply current page number ( every page displays 10 records)
+-disaply current page number ( every page displays 10 records).
 -simple pagination, user can click previous or next to explore other records.
 ![image](https://user-images.githubusercontent.com/65098066/192467065-3ac92632-c857-4ffb-8668-502e4686a1b4.png)
 
 Starship list
 -display records counts.
--disaply current page number ( every page displays 10 records)
+-disaply current page number ( every page displays 10 records).
 -simple pagination, user can click previous or next to explore other records.
 ![image](https://user-images.githubusercontent.com/65098066/192467274-9f8471e2-5e4f-494e-9e51-627fc432e409.png)
 
